@@ -1,0 +1,43 @@
+{ 
+  "description": "This NFT proves I've completed the Blockchain developer course at www.palermo.edu",
+  "external_url": "tanduwebs.com",
+  "image": "https://ipfs.filebase.io/ipfs/Qmbv77zU7PHdLqxxLLHb2TWAYEr6rDHj8d2Qtjfn5tVsgk/Qma58DSwJonPwPtaAwu2CXAWLCdzeaVh8uWEc899NU1cgv",
+  "name": "Blockchain Developer Certificate", 
+  "attributes": [
+    {
+      "trait_type": "Level", 
+      "value": 10
+    }, 
+    {
+      "trait_type": "Caffeine", 
+      "value": 7
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Focus"
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Happy"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Coder Power", 
+      "value": 40
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Salary Increase", 
+      "value": 700
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Cohort", 
+      "value": 0
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "On date", 
+      "value": 1669240800
+    }]
+ }
