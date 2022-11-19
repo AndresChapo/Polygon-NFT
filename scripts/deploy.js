@@ -1,9 +1,9 @@
 async function main() {
-    const HelloWorld = await ethers.getContractFactory("HelloWorld");
+    const BlockchainDeveloperNFT = await ethers.getContractFactory("BlockchainDeveloperNFT");
  
     // Start deployment, returning a promise that resolves to a contract object
-    const hello_world = await HelloWorld.deploy("Hello World!");   
-    console.log("Contract deployed to address:", hello_world.address);
+    const blockchain_dev_nft = await BlockchainDeveloperNFT.deploy("Bockchain Developer NFT");   
+    console.log("Contract deployed to address:", blockchain_dev_nft.address);
  }
  
  main()
@@ -12,4 +12,3 @@ async function main() {
      console.error(error);
      process.exit(1);
    });
-   
